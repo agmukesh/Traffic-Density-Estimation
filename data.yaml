@@ -1,0 +1,12 @@
+train: /content/drive/MyDrive/Colab Notebooks/New folder (2)/Vehicle_Detection_Image_Dataset/train/images
+val: /content/drive/MyDrive/Colab Notebooks/New folder (2)/Vehicle_Detection_Image_Dataset/valid/images
+
+nc: 1
+names: ['Vehicle']
+
+roboflow:
+  
+  project: vehicle_detection_yolov8
+  version: 3
+  license: CC BY 4.0
+  
