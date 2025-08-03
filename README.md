@@ -26,16 +26,14 @@ This project implements a real-time traffic density estimation system utilising 
 
 ---
 
-## 📁 Project Structure
-├── traffic-density-estimation-with-yolov8.ipynb # Main notebook
+## 📁 Project Structure                                                     
+├── traffic-density-estimation-with-yolov8.ipynb # Main notebook                       
 ├── processed_sample_video.mp4 # Output sample
-├── yolov8n.pt # YOLOv8 model weights
+├── yolov8n.pt # YOLOv8 model weights                                         
 ├── data.yaml # Dataset configuration
 ├── Vehicle_Detection_Image_Dataset/ # Custom image/video dataset
 ├── requirements.txt # Python dependencies
-├── .github/
-│ └── workflows/
-│ └── ci.yml # GitHub Actions CI pipeline
+
 
 ## ⚙️ Environment Setup
 
