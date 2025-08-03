@@ -1,7 +1,5 @@
 # Traffic Density Estimation System 🚗📊
 
-[![CI Build](https://github.com/agmukesh/Traffic-Density-Estimation/actions/workflows/ci.yml/badge.svg)](https://github.com/agmukesh/Traffic-Density-Estimation/actions)
-
 ## 📌 Overview
 This project implements a real-time traffic density estimation system utilising YOLOv8 and deep learning techniques. It leverages computer vision to detect and count vehicles in video streams, enabling smarter traffic control and congestion reduction.
 
